@@ -1,0 +1,46 @@
+Los Angeles International Airport
+79 189
+Toronto Pearson International Airport
+221 157
+Calgary International Airport
+119 136
+Hartsfield–Jackson Atlanta
+186 197
+John F. Kennedy International Airport
+227 172
+Barcelona–El Prat Airport
+475 166
+París-Charles de Gaulle
+479 143
+London Heathrow
+471 127
+Mohammed V International Airport
+447 197
+Cairo International Airport
+573 211
+Dubai International Airport
+654 233
+O. R. Tambo International Airport
+566 429
+Cape Town International Airport
+535 450
+India Gandhi Delhi International Airport
+735 241
+Beijing Daxing International Airport
+839 174
+Tokyo "Haneda" International Airport
+928 190
+Sydney Kingsford Smith
+971 454
+Perth International Airport
+861 444
+Mexico City International Airport
+128 250
+Luis Muñoz Marín International Airport
+237 253
+El Dorado International Airport
+209 302
+São Paulo/Guarulhos International Airport
+310 414
+Aeroparque Jorge Newbery
+277 457

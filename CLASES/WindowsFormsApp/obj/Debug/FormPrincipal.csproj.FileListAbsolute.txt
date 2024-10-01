@@ -1,0 +1,202 @@
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\bin\Debug\CLASES.dll
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\bin\Debug\CLASES.pdb
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\bin\Debug\Form2.exe
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\bin\Debug\Form2.pdb
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\WindowsFormsApp\bin\Debug\Form2.exe.config
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\WindowsFormsApp\bin\Debug\CLASES.dll
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\WindowsFormsApp\bin\Debug\CLASES.pdb
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\bin\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\bin\Debug\Form2.exe
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\bin\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\bin\Debug\Form2.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\bin\Debug\Form2.exe.config
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\bin\Debug\CLASES.dll
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\bin\Debug\Form2.exe
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\bin\Debug\CLASES.pdb
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\bin\Debug\Form2.pdb
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\bin\Debug\Form2.exe.config
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Downloads\clas_zip\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\WindowsFormsApp\bin\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\WindowsFormsApp\bin\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form2.resources
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\WindowsFormsApp\bin\Debug\CLASES.dll
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\WindowsFormsApp\bin\Debug\CLASES.pdb
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form2.resources
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form3.resources
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\bin\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\bin\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form2.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form3.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form2.resources
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form3.resources
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\WindowsFormsApp\bin\Debug\CLASES.dll
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\WindowsFormsApp\bin\Debug\CLASES.pdb
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form2.resources
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form3.resources
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\bin\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\bin\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form2.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form3.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\bin\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\bin\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.SuggestedBindingRedirects.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form2.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form3.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto1\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto1\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto1\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto1\CLASES\WindowsFormsApp\bin\Debug\CLASES.dll
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto1\CLASES\WindowsFormsApp\bin\Debug\CLASES.pdb
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form2.resources
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form3.resources
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\WindowsFormsApp\bin\Debug\CLASES.dll
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\WindowsFormsApp\bin\Debug\CLASES.pdb
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form2.resources
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form3.resources
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\FormPrin.B77D88CA.Up2Date
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\WindowsFormsApp\bin\Debug\CLASES.dll
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\WindowsFormsApp\bin\Debug\CLASES.pdb
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form2.resources
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form3.resources
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\WindowsFormsApp\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\WindowsFormsApp\obj\Debug\FormPrin.B77D88CA.Up2Date
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb

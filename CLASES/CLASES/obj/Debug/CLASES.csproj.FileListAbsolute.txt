@@ -1,0 +1,78 @@
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\CLASES\CLASES\bin\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\CLASES\CLASES\bin\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\CLASES\CLASES\obj\Debug\CLASES.csproj.AssemblyReference.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\CLASES\CLASES\obj\Debug\CLASES.csproj.CoreCompileInputs.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\CLASES\CLASES\obj\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\CLASES\CLASES\obj\Debug\CLASES.pdb
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\CLASES\bin\Debug\CLASES.dll
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\CLASES\bin\Debug\CLASES.pdb
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\CLASES\obj\Debug\CLASES.csproj.AssemblyReference.cache
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\CLASES\obj\Debug\CLASES.csproj.CoreCompileInputs.cache
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\CLASES\obj\Debug\CLASES.dll
+C:\Users\miigu\OneDrive\Escritorio\projecte\CLASES\CLASES\obj\Debug\CLASES.pdb
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\CLASES\bin\Debug\CLASES.dll
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\CLASES\bin\Debug\CLASES.pdb
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\CLASES\obj\Debug\CLASES.csproj.AssemblyReference.cache
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\CLASES\obj\Debug\CLASES.csproj.CoreCompileInputs.cache
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\CLASES\obj\Debug\CLASES.dll
+C:\Users\miigu\OneDrive\Escritorio\Projecte 0\CLASES\CLASES\obj\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\CLASES\bin\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\CLASES\bin\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\CLASES\obj\Debug\CLASES.csproj.AssemblyReference.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\CLASES\obj\Debug\CLASES.csproj.CoreCompileInputs.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\CLASES\obj\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\P\CLASES\CLASES\obj\Debug\CLASES.pdb
+C:\Users\Alan\Downloads\clas_zip\CLASES\CLASES\bin\Debug\CLASES.dll
+C:\Users\Alan\Downloads\clas_zip\CLASES\CLASES\bin\Debug\CLASES.pdb
+C:\Users\Alan\Downloads\clas_zip\CLASES\CLASES\obj\Debug\CLASES.csproj.AssemblyReference.cache
+C:\Users\Alan\Downloads\clas_zip\CLASES\CLASES\obj\Debug\CLASES.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Downloads\clas_zip\CLASES\CLASES\obj\Debug\CLASES.dll
+C:\Users\Alan\Downloads\clas_zip\CLASES\CLASES\obj\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\CLASES\bin\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\CLASES\bin\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\CLASES\obj\Debug\CLASES.csproj.AssemblyReference.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\CLASES\obj\Debug\CLASES.csproj.CoreCompileInputs.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\CLASES\obj\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip\CLASES\CLASES\obj\Debug\CLASES.pdb
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\CLASES\bin\Debug\CLASES.dll
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\CLASES\bin\Debug\CLASES.pdb
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\CLASES\obj\Debug\CLASES.csproj.AssemblyReference.cache
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\CLASES\obj\Debug\CLASES.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\CLASES\obj\Debug\CLASES.dll
+C:\Users\Miguel Angel\Desktop\clas_zip2\CLASES\CLASES\obj\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\CLASES\bin\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\CLASES\bin\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\CLASES\obj\Debug\CLASES.csproj.AssemblyReference.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\CLASES\obj\Debug\CLASES.csproj.CoreCompileInputs.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\CLASES\obj\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\clas_zip2\CLASES\CLASES\obj\Debug\CLASES.pdb
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\CLASES\bin\Debug\CLASES.dll
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\CLASES\bin\Debug\CLASES.pdb
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\CLASES\obj\Debug\CLASES.csproj.AssemblyReference.cache
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\CLASES\obj\Debug\CLASES.csproj.CoreCompileInputs.cache
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\CLASES\obj\Debug\CLASES.dll
+C:\UPC\A-1\C-2\300017 - PROJECTE DE PROGRAMACIÓ\Proyecto\CLASES\CLASES\obj\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\CLASES\bin\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\CLASES\bin\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\CLASES\obj\Debug\CLASES.csproj.AssemblyReference.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\CLASES\obj\Debug\CLASES.csproj.CoreCompileInputs.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\CLASES\obj\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto\CLASES\CLASES\obj\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\CLASES\bin\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\CLASES\bin\Debug\CLASES.pdb
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\CLASES\obj\Debug\CLASES.csproj.AssemblyReference.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\CLASES\obj\Debug\CLASES.csproj.CoreCompileInputs.cache
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\CLASES\obj\Debug\CLASES.dll
+C:\Users\nrcso\OneDrive\Escriptori\ENRIC\UNI\EETAC\1r\Q2\PP\PP_final\Proyecto0\CLASES\CLASES\obj\Debug\CLASES.pdb
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\CLASES\bin\Debug\CLASES.dll
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\CLASES\bin\Debug\CLASES.pdb
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\CLASES\obj\Debug\CLASES.csproj.AssemblyReference.cache
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\CLASES\obj\Debug\CLASES.csproj.CoreCompileInputs.cache
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\CLASES\obj\Debug\CLASES.dll
+C:\UPC\A-1\2A\PP\Proyecto1\CLASES\CLASES\obj\Debug\CLASES.pdb
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\CLASES\bin\Debug\CLASES.dll
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\CLASES\bin\Debug\CLASES.pdb
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\CLASES\obj\Debug\CLASES.csproj.AssemblyReference.cache
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\CLASES\obj\Debug\CLASES.csproj.CoreCompileInputs.cache
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\CLASES\obj\Debug\CLASES.dll
+C:\UPC\A-1\2A\PP\Proyecto\CLASES\CLASES\obj\Debug\CLASES.pdb
